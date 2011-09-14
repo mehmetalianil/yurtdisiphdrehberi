@@ -6,26 +6,19 @@ This is a guide in Turkish for applications to PhD programs in US and Europe. Gu
 	
 __Authors:__
 
-Onur Albayrak
-
-Ahmet Demir
-
-Veli Ugur Guney
-
-Ismail Volkan Inlek
-
-Bugra Kaytanli
-
-Alp Sipahigil
-
-Tuna Toksoz
-
-Sina Tureli
+> Onur Albayrak
+> Ahmet Demir
+> Veli Ugur Guney
+> Ismail Volkan Inlek
+> Bugra Kaytanli
+> Alp Sipahigil
+> Tuna Toksoz
+> Sina Tureli
 
 __Editor:__
 
-Tolga Suna
+> Tolga Suna
 
 __Source file is created and maintained by:__
 
-Onur Albayrak, Tuna Toksoz	and Mehmet Ali Anil	
+> Onur Albayrak, Tuna Toksoz	and Mehmet Ali Anil	
