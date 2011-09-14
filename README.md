@@ -1,9 +1,10 @@
-### The Hitchhiker's Guide to Graduate School Applications Outside Turkey ###
+The Hitchhiker's Guide to Graduate School Applications Outside Turkey
+=====================================================================
+__Description:__
 
-Description:	
 	This is a guide in Turkish for applications to PhD programs in US and Europe. Guide also includes the procedures and suggestions before and after the application period. 
 	
-Authors: 
+__Authors: __
 	Onur Albayrak
 	Ahmet Demir
 	Veli Ugur Guney
@@ -13,8 +14,8 @@ Authors:
 	Tuna Toksoz
 	Sina Tureli
 
-Editor:
+__Editor:__
 	Tolga Suna
 
-Source file is created and maintained by: 
+__Source file is created and maintained by: __
 	Onur Albayrak, Tuna Toksoz	and Mehmet Ali Anil	
